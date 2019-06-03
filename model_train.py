@@ -13,8 +13,8 @@ trdata = 2000
 vltdata = 800
 batch = 16
 
-#training_data = 'insert training data directory here'
-#validation_data = 'insert validation data directory here'
+training_data = 'insert training data directory here'
+validation_data = 'insert validation data directory here'
 
 model=Sequential()
 model.add(Conv2D(32,(3,3),input_shape=(64,64,3),activation='relu'))
