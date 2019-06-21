@@ -1,4 +1,4 @@
-# cat-vs-dog-classifier
+# Cat - Dog Classifier
 
 This code is written in Keras with Tensorflow Backend<br/>
 It is a basic code that can differentiate between 2 categories: Cat and Dog<br/>
